@@ -1,4 +1,5 @@
 # 👋 Hola, soy Itzel Villalobos
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xXCharly11Xx.xXCharly11Xx)
 
 🎯 **Data Scientist en formación**  
 📊 Interesada en análisis de datos, segmentación de clientes y analítica de negocio.
@@ -57,3 +58,4 @@ https://github.com/xXCharly11Xx/customer-segmentation-rfm-sql
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXCharly11Xx&layout=compact&theme=dark)
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xXCharly11Xx&theme=dark)
