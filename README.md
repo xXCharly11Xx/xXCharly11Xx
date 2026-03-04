@@ -59,3 +59,6 @@ https://github.com/xXCharly11Xx/customer-segmentation-rfm-sql
 
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xXCharly11Xx&theme=dark)
+
+---
+![snake gif](https://github.com/xXCharly11Xx/xXCharly11Xx/blob/output/github-contribution-grid-snake.svg)
