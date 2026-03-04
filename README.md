@@ -53,14 +53,14 @@ https://github.com/xXCharly11Xx/customer-segmentation-rfm-sql
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xXCharly11Xx&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xXCharly11Xx&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXCharly11Xx&layout=compact&theme=tokyonight)
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xXCharly11Xx&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xXCharly11Xx&layout=compact&theme=tokyonight)
 
 ---
 
-![Snake animation](https://github.com/xXCharly11Xx/xXCharly11Xx/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=xXCharly11Xx&theme=tokyonight)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/xXCharly11Xx/xXCharly11Xx/output/github-contribution-grid-snake.svg)
