@@ -58,7 +58,9 @@ https://github.com/xXCharly11Xx/customer-segmentation-rfm-sql
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXCharly11Xx&layout=compact&theme=tokyonight)
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xXCharly11Xx&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xXCharly11Xx&theme=tokyonight)
 
 ---
+
 ![Snake animation](https://github.com/xXCharly11Xx/xXCharly11Xx/blob/output/github-contribution-grid-snake.svg)
