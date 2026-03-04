@@ -1,26 +1,22 @@
 # 👋 Hola, soy Itzel Villalobos
 
 🎯 **Data Scientist en formación**  
-📊 Enfocado en análisis de datos, análisis de negocio y segmentación de clientes.
+📊 Interesada en análisis de datos, segmentación de clientes y analítica de negocio.
 
-Actualmente estoy desarrollando proyectos de análisis de datos utilizando **Python, SQL y herramientas de análisis de negocio** para construir un portafolio profesional orientado a roles de **Data Analyst / Data Scientist**.
-
----
-
-# 🚀 Sobre mí
-
-Soy una profesional en formación dentro del campo de **Ciencia de Datos**, con especial interés en:
-
-- Análisis de datos de negocio
-- Segmentación de clientes
-- Análisis de ventas
-- Generación de insights a partir de datos
-
-Actualmente estoy completando el programa de **Data Science de TripleTen**, donde desarrollo proyectos aplicados utilizando herramientas reales del mundo laboral.
+Actualmente estoy desarrollando proyectos utilizando **Python, SQL y herramientas de análisis de datos** para construir un portafolio orientado a roles de **Data Scientist / Data Analyst**.
 
 ---
 
-# 🧰 Tecnologías y herramientas
+## 🚀 Sobre mí
+
+- 📚 Estudiante del programa **Data Science de TripleTen**
+- 📊 Experiencia desarrollando análisis de ventas y segmentación de clientes
+- 🧠 Interés en machine learning y analítica de negocio
+- 📍 Monterrey, México
+
+---
+
+## 🧰 Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
@@ -34,38 +30,27 @@ Actualmente estoy completando el programa de **Data Science de TripleTen**, dond
 
 ---
 
-# 📊 Proyectos Destacados
+## 📂 Proyectos Destacados
 
-## 📈 Análisis de Ventas con SQL y Python
+### 📈 Sales Analysis (SQL + Python)
 
-Proyecto de análisis de ventas utilizando **Python, pandas y SQL** para analizar patrones de compra, ingresos por país y comportamiento de clientes.
+Análisis de ventas utilizando Python, pandas y SQL para identificar patrones de compra, ingresos por país y comportamiento de clientes.
 
-Repositorio:
-
-🔗  
+🔗 Repo  
 https://github.com/xXCharly11Xx/sales-analysis-sql-python
 
 ---
 
-## 👥 Segmentación de Clientes con RFM
+### 👥 Customer Segmentation (RFM)
 
-Proyecto de **segmentación de clientes utilizando la metodología RFM (Recency, Frequency, Monetary)** implementado con **SQL y Python**.
+Segmentación de clientes utilizando la metodología **RFM (Recency, Frequency, Monetary)** para identificar clientes valiosos y clientes en riesgo.
 
-Este análisis permite identificar clientes:
-
-- Champions
-- Loyal Customers
-- At Risk
-- Hibernating
-
-Repositorio:
-
-🔗  
+🔗 Repo  
 https://github.com/xXCharly11Xx/customer-segmentation-rfm-sql
 
 ---
 
-# 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xXCharly11Xx&show_icons=true&theme=dark)
 
